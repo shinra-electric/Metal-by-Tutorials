@@ -2,7 +2,7 @@
 
 In this chapter we create an Xcode playground that displays a red circle within a square. 
 
-<img src="./Result.png" width="200" align="center" />
+<img src="./Result.png" width="400" align="center" />
 
 In the tutorial we covered: 
 
